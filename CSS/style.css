@@ -7,6 +7,20 @@ body {
 .header {
     height: 400px;
     background-image: url("../images/coffee-bgnd.jpeg");
-    text-align: center;
+    background-position: center;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center
+
+}
+
+h1 {
+    margin:0;
+    font-size: 100px;
+    font-family: 'Covered By Your Grace', cursive;
+    color:blueviolet;
+    
+
 
 }
