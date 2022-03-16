@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: whitesmoke;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    height: 400px;
+    background-image: url("../images/coffee-bgnd.jpeg");
+    text-align: center;
+
+}
